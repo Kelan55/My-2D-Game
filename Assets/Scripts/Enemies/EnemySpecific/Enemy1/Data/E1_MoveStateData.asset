@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b245f967b0c587440b74f66265ba684d, type: 3}
+  m_Name: E1_MoveStateData
+  m_EditorClassIdentifier: 
+  movemementVelocity: 2
+  moveWhileAttack: 0
+  attackMoveTime: 0.2
+  jumpVelocity: 15
+  amountOfJumps: 1
+  groundCheckRadius: 0.3
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 512

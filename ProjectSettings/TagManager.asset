@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Key
+  - SwingTime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Dead
+  - Enemy
+  - Player
+  - Ground
+  - Damageable
+  - Box
+  - Key
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3529045857
+    locked: 0
+  - name: Platforms
+    uniqueID: 2424692085
+    locked: 0
+  - name: Decorations
+    uniqueID: 1790334799
+    locked: 0
+  - name: Decorations / Ground
+    uniqueID: 915522021
+    locked: 0
+  - name: Enemy
+    uniqueID: 885831947
+    locked: 0
+  - name: Player
+    uniqueID: 2684841711
+    locked: 0
+  - name: Dead
+    uniqueID: 2018588565
+    locked: 0
