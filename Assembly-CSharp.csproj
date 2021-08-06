@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Enemies\States\Data\D_Entity.cs" />
     <Compile Include="Assets\Scripts\Core\Core.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\ChargeState.cs" />
+    <Compile Include="Assets\Scripts\Enemies\EnemySpecific\Enemy1\E1_DeadState.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\IdleState.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStates\SubStates\PlayerAttackState.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\Data\D_IdleState.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="Assets\Scripts\Core\CoreComponents\CollisionSense.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStates\SubStates\PlayerJumpState.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemySpecific\Enemy1\Enemy1.cs" />
+    <Compile Include="Assets\Scripts\Enemies\States\Data\D_DeadState.cs" />
     <Compile Include="Assets\Scripts\Core\CoreComponents\CoreComponent.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\Data\D_PlayerDetected.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemySpecific\Enemy1\E1_ChargeState.cs" />
@@ -101,14 +103,12 @@
     <Compile Include="Assets\Scripts\Enemies\EnemySpecific\Enemy1\E1_PlayerDetectedState.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStates\SubStates\PlayerIdleState.cs" />
     <Compile Include="Assets\Scripts\Enemies\State Machine\FiniteStateMachine.cs" />
+    <Compile Include="Assets\Scripts\Enemies\States\DeadState.cs" />
     <Compile Include="Assets\Scripts\Player\Data\PlayerData.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStates\SuperStates\PlayerAbilityState.cs" />
     <Compile Include="Assets\Scripts\Others\AnimationToStatemachine.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\Data\D_MeeleAttackState.cs" />
     <Compile Include="Assets\Scripts\Enemies\States\Data\D_EnemyGetHitState.cs" />
-    <Compile Include="Assets\Scripts\Enemies\States\DeadState.cs" />
-    <Compile Include="Assets\Scripts\Enemies\States\Data\D_DeadState.cs" />
-    <Compile Include="Assets\Scripts\Enemies\EnemySpecific\Enemy1\E1_DeadState.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
